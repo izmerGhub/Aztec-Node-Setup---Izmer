@@ -237,7 +237,7 @@ Compare with: [https://aztecscan.xyz](https://aztecscan.xyz)
 
 Track your validator:
 
-- Visit the [Aztec Dashboard](https://testnet.aztec.network/dashboard)
+- Visit the [Aztec Dashboard](https://dashtec.xyz/queue)
 - Connect your X & Discord
 
 ---

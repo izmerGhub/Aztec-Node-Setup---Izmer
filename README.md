@@ -104,6 +104,14 @@ aztec-up 1.1.2
      
 You may also run your own Geth & Prysm node (600-1000 GB SSD required)(NEED 1 TB SPACE)
 
+
+#### 🚀 **Rent Aztec RPC Endpoint**  
+High-performance RPC for Aztec Network:  
+
+🔗 **RPC URL**: `https://www.mintair.xyz/rpc`  
+
+✨ **Bonus**: Use my [referral link](https://mintair.xyz/onboarding?ref=20ZE-UKFT) for perks!  
+
 ### 6. Stanby Ethereum Wallet
 
 Get a public/private key pair. Save both.
